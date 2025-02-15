@@ -1,0 +1,56 @@
+.top{
+    width: 80%;
+    margin-left: 10%;
+    height: 250px;
+    margin-bottom: 20px;
+}
+.des_pattern1{
+    height: 250px;
+    width: 700px;
+    background-position: bottom ;
+    border-radius: 20px;
+    display: inline-block;
+}
+.des_pattern2{
+    height: 250px;
+    width: 483px;
+    border-radius: 20px;
+}
+.des_pattern3{
+    height: 250px;
+    width: 330px;
+    border-radius: 20px;
+}
+.des_pattern4{
+    height: 250px;
+    width: 500px;
+    border-radius: 30px;
+}
+.ul,li{
+    display: inline;
+}
+a{
+    text-decoration:none;
+    color:black
+}
+li:hover{
+cursor: pointer;
+text-decoration: underline;
+text-underline-offset: 4px;
+}
+.des_pattern1:hover{
+    filter:brightness(50%);
+    cursor:pointer
+}
+.des_pattern2:hover{
+    filter:brightness(50%);
+    cursor:pointer
+}
+.des_pattern3:hover{
+    filter:brightness(50%);
+    cursor:pointer
+}
+.des_pattern4:hover{
+    filter:brightness(50%);
+    cursor:pointer
+}
